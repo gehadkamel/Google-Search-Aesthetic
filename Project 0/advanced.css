@@ -79,7 +79,7 @@ div {
   width: 33%;
   font-size: 13px;
   font-weight: 700;
-  color: #777;
+  color: black;
   padding-left: 20px;
   vertical-align: middle;
 }
@@ -118,6 +118,58 @@ div {
   height: 30px;
   max-width: 200px;
   align-items: baseline;
+}
+
+.box-drop {
+  height: 30px;
+  min-width: 500px;
+  align-items: baseline;
+}
+
+#drop {
+  background-color: lightgray;
+  opacity: 0.7;
+  border-radius: 0px;
+  text-align: left;
+}
+
+#icon {
+  float: right;
+  clear: both;
+}
+
+option {
+  color: black;
+  background-color: white;
+}
+
+.Advanced-search {
+  float: right;
+  padding: 5px;
+  border-radius: 4px;
+  min-width: 120px;
+  background-color: #4d90fe;
+  border: 1px solid #3079ed;
+  color: white;
+}
+
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightgray;
+  opacity: 0.7;
+  padding: 20px;
+}
+
+.anchors-left {
+  color: black;
+  text-align: left;
+  text-orientation: sideways;
+  font-size: 16px;
+  padding: 10px;
+  word-break: break-all;
 }
 
 /*# sourceMappingURL=advanced.css.map */
