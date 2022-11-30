@@ -1,2 +1,4 @@
-# Web-Dev
-In this repo I will add my CS50 web projects
+# Google Search aesthetic
+A three-page web project written in HTML and CSS focusing mainly on the construction of webpages and aesthetics
+
+This is the first project of the CS50 web course
